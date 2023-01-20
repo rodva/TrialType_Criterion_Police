@@ -74,3 +74,13 @@ arrestedFile = pd.read_csv(fileToAnalyse, sep='\t', header = headingLine, index_
 print("\n\n"+"The D scores per trial type, per participant, is in fileAllDscores.txt and here:")
 fileAllDscores.write(str(arrestedFile.groupby(["participantCode"])[["D_IRAP_TrialType_1_Test_mean","D_IRAP_TrialType_2_Test_mean","D_IRAP_TrialType_3_Test_mean","D_IRAP_TrialType_4_Test_mean"]].mean()))
 print(arrestedFile.groupby(["participantCode"])[["D_IRAP_TrialType_1_Test_mean","D_IRAP_TrialType_2_Test_mean","D_IRAP_TrialType_3_Test_mean","D_IRAP_TrialType_4_Test_mean"]].mean())
+
+## Fecking off:
+fileAccuracy.close()
+fileLatency.close()
+latenciesPerBlock.close()
+Means_perParticipant_1isTestBlock_perTrialType_acrossConIncon.close()
+Means_1isTestBlock_perTrialType_perParticipant_acrossConIncon.close()
+Means_perOrder.close()
+fileAllDscores.close()
+input("\n\nSuccess!\nThe information above is also stored in TXT files located in the folder where you ran this analysis from.\nPress anything to exit.\nCheers, Rodrigo.")
