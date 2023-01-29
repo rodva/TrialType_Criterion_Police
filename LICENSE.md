@@ -5,3 +5,4 @@ The jurisdiction for legal stuff is based where I live and work and where Ulster
 I only authorise the use of these files and information for scientific purposes and with open access to anything related to it. 
 No other use is allowed, in particular for commercial purposes or those whereby full access is not publicly available. 
 Some pieces of code were deeply based on information publicly available online, on forums easily found on Google. So, if you copy my code, you are, to some extent, also copying the sources, so any consequences regarding this are your problem. 
+This is offered under absolutely no warranty. Your use of this code is your responsibility, not mine. I do not guarantee anything relative to this product. I have no commitment, whether financial, commercial, or legal, to users' use of the code I developed.  
