@@ -75,7 +75,7 @@ print("\n\n"+"The D scores per trial type, per participant, is in fileAllDscores
 fileAllDscores.write(str(arrestedFile.groupby(["participantCode"])[["D_IRAP_TrialType_1_Test_mean","D_IRAP_TrialType_2_Test_mean","D_IRAP_TrialType_3_Test_mean","D_IRAP_TrialType_4_Test_mean"]].mean()))
 print(arrestedFile.groupby(["participantCode"])[["D_IRAP_TrialType_1_Test_mean","D_IRAP_TrialType_2_Test_mean","D_IRAP_TrialType_3_Test_mean","D_IRAP_TrialType_4_Test_mean"]].mean())
 
-## Fecking off:
+## End routine:
 fileAccuracy.close()
 fileLatency.close()
 latenciesPerBlock.close()
