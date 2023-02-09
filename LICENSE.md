@@ -20,9 +20,12 @@ copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions: 
 
 I.    Cite the source and author (me);
+
 II.   Do not use it for commercial purposes;
-III.  Whatever comes from your use of the Software needs to be publicly offered with full public acsess to the sources;
-IV.   Your use of the Software is your responsibility and therefore I am not responsible for it.
+
+III.  Whatever comes from your use of the Software needs to be publicly offered, with full public access to the sources;
+
+IV.   Your use of the Software is your responsibility and therefore I am not responsible for whatever derives from it.
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
