@@ -15,7 +15,7 @@ find the folder where both this code and your datafile.txt are (to do that, you 
 
 write "python policing.py" and press enter and interact with my code in the most UX-unfriendly possible way as I could not have been bothered spicing up the interface yet. 
 
-Note that this code was written under version 3.10.10 so if your Python version conflicts with it make sure you update Python or use an environment please.
+Note that this code was written under version 3.10.10 -- So, if your Python version conflicts with, it make sure you update Python. Alternatively, use an environment, please.
 
 An EXE *may* be comming up soon so yous don't have to run the sourcecode in Python on your prompt/commandline; yous will only need to place EXE and TXT files in the same folder and run the EXE. However, this is not done yet.
 
