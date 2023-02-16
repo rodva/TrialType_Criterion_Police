@@ -27,7 +27,9 @@ III.  Whatever comes from your use of the Software needs to be publicly offered,
 
 IV.   Your use of the Software is your responsibility and therefore I am not responsible for whatever derives from it;
 
-V. Follow the Creative Commons Attribution 4.0 International (CC BY 4.0) license (https://creativecommons.org/licenses/by/4.0/).
+V. Follow the Creative Commons Attribution 4.0 International (CC BY 4.0) license (https://creativecommons.org/licenses/by/4.0/);
+
+VI. I explicitely authorise *NO* for-profit use of anything deriving from the Software.
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
