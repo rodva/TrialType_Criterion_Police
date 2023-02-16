@@ -15,7 +15,7 @@ find the folder where both this code and your datafile.txt are (to do that, you 
 
 write "python policing.py" and press enter and interact with my code in the most UX-unfriendly possible way as I could not have been bothered spicing up the interface yet. 
 
-[If you are on Linux, you probably know it better than me so I need to write no patronising instructions. If you are on Mac, you might considering paying for the support I would otherwise provide if I had ever had any experience with an Apple device -- I am from Brazil, ffs].
+_[If you are on Linux, you probably know it better than me so I need not to write patronising instructions. If you are on Mac, you might consider paying for the support I would otherwise provide for free if I had ever had any experience with an Apple device -- I am from Brazil, ffs]._
 
 Note that this code was written under version 3.10.10 -- So, if your Python version conflicts with, it make sure you update Python. Alternatively, use an environment, please.
 
