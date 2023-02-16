@@ -2,6 +2,7 @@
 ## This code is a "bad trial type police" officer.
 ## It is aimed to find violations of accuracy and latency per trial,
 ## and find which trial type it belongs to.
+## Written in Python version 3.10.10
 
 ## Heating up:
 import os
