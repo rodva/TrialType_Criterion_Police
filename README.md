@@ -13,7 +13,7 @@ write "cmd" and press enter;
 
 find the folder where both this code and your datafile.txt are (to do that, you only need to write "cd " and the name of the directory to change to this diretcory or "cd .." to go back one level of directories, and "dir" to see what is in the current directory);
 
-write "python policing.py" and press enter and interact with my code in the most UX-unfriendly possible way as I could not have been botered spicing up the interface yet. 
+write "python policing.py" and press enter and interact with my code in the most UX-unfriendly possible way as I could not have been bothered spicing up the interface yet. 
 
 Note that this code was written under version 3.10.10 so if your Python version conflicts with it make sure you update Python or use an environment please.
 
