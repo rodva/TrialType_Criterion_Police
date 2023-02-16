@@ -17,7 +17,7 @@ write "python policing.py" and press enter and interact with my code in the most
 
 _[If you are on Linux, you probably know it better than me so I need not to write patronising instructions. If you are on Mac, you might consider paying for the support I would otherwise provide for free if I had ever had any experience with an Apple device -- I am from Brazil, ffs]._
 
-Note that this code was written under version 3.10.10 -- So, if your Python version conflicts with, it make sure you update Python. Alternatively, use an environment, please.
+Note that this code was written under version 3.10.10 -- So, if your Python version conflicts with it, please make sure you update Python to this version. Alternatively, use an environment, please.
 
 An EXE *may* be comming up soon so yous don't have to run the sourcecode in Python on your prompt/commandline; yous will only need to place EXE and TXT files in the same folder and run the EXE. However, this is not done yet.
 
