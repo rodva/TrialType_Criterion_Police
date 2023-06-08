@@ -1,5 +1,5 @@
-I am offering these files and information on the World-Wide Web, under the MIT license below, as well as the Creative Commons Attribution 4.0 International (CC BY 4.0), because I want to, but they belong to me and are my intellectual property. 
-By being my intellectual property, they are also covered by the institutions who contractually own any intellectual property of mine -- namely, Ulster University. 
+I am offering these files and information on the World-Wide Web, under the MIT license below, as well as the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/), for public use, but they are my intellectual property. 
+By being my intellectual property, they are also covered by the institutions who contractually oversee any intellectual property of mine -- namely, Ulster University. 
 Therefore, Ulster University has overarching rights over this work and its products; legal stuff should thus be dealt with them directly. 
 The jurisdiction for legal stuff is based where I live and work and where Ulster University is based, viz. Northern Ireland. 
 I only authorise the use of these files and information for scientific purposes and with open access to anything related to it. 
@@ -27,9 +27,9 @@ III.  Whatever comes from your use of the Software needs to be publicly offered,
 
 IV.   Your use of the Software is your responsibility and therefore I am not responsible for whatever derives from it;
 
-V. Follow the Creative Commons Attribution 4.0 International (CC BY 4.0) license (https://creativecommons.org/licenses/by/4.0/);
+V. Follow the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license (https://creativecommons.org/licenses/by-nc-sa/4.0/);
 
-VI. I explicitely authorise *NO* for-profit use of anything deriving from the Software.
+VI. I explicitly DO NOT authorise *ANY* for-profit or commercial use of anything deriving from the Software.
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
