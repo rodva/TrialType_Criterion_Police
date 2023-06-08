@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: de Almeida
+    given-names: Rodrigo Vianna
+    orcid: https://orcid.org/0000-0002-0767-8338
+title: IRAP Trial Type Criteria Violations Policing algorithm: repository with the IRAP-policing files
+version: IRAPanalysis
+date-released: 2023-06-08
