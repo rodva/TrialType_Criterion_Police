@@ -15,11 +15,11 @@ find the folder where both this code and your datafile.txt are (to do that, you 
 
 write "python policing.py" and press enter and interact with my code in the most UX-unfriendly possible way as I could not have been bothered spicing up the interface yet. 
 
-_[If you are on Linux, you probably know it better than me so I need not to write patronising instructions. If you are on Mac, you might consider paying for the support I would otherwise provide for free if I had ever had any experience with an Apple device -- I am from Brazil, ffs]._
+_[If you are on Linux, you probably know it better than me so I need not to write patronising instructions. If you are on Mac, I am afraid I cannot help as I have never had any experience with an Apple device -- I am from Brazil]._
 
-Note that this code was written under version 3.10.10 -- So, if your Python version conflicts with it, please make sure you update Python to this version. Alternatively, use an environment, please.
+Note that this code was written under Python version 3.10.10 -- So, if your Python version conflicts with it, please make sure you update Python to this version. Alternatively, use an environment, please.
 
-An EXE *may* be comming up soon so yous don't have to run the sourcecode in Python on your prompt/commandline; yous will only need to place EXE and TXT files in the same folder and run the EXE. However, this is not done yet.
+An HTML-based way to run another version of the code which is more interactive but does not produce all output files that the original version does eas contructed using PyScript and can be found at http://policing-irap.rd.psc.br 
 
 This code is offered under absolutely no warranty. Your use of this code is your responsibility.
 Enjoy -- any queries are to be submitted to de_almeida-r at ulster ac uk.
